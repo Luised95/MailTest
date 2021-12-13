@@ -1,0 +1,270 @@
+body{
+    margin: 0em;
+    padding: 0em;
+    font-family: 'Poppins', sans-serif;
+}
+
+.conteiner{
+    max-width: 600px;
+}
+
+.alert-telephone{
+    margin: 0em;
+    padding: 0em;
+    background-color: #00A0E4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: Roboto, sans-serif;
+    font-size: 0.75em;
+    font-weight: 350;
+    letter-spacing: 0px;
+    height: 3.5em;
+}
+
+#p-Alert{
+    margin: 1em 0em;
+    color: white;
+    font-weight: 350;
+}
+
+strong{
+    margin: 1em 0em;
+    font-weight: 450;
+    color: white;
+}
+
+i{
+    margin: 1.3em 0.2em;
+    color: white;
+}
+
+#telephone{
+    color: white;
+    text-decoration: none;
+    margin: 1.1em 0.1em;
+    font-weight: 400;
+}
+
+span{
+    margin: 1em 0.2em;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+#CovidInfo{
+    margin: 1.1em 0.1em;
+    color: white;
+}
+
+.LOGO-reservacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#LOGO{
+    height: 2.5em;
+    margin: 1em 1.5em;
+    padding: 0em;
+}
+
+#ConsultaReservacion{
+    margin: 1.9em 2em;
+    text-decoration: none;
+    font-size: 0.95em;
+    font-family: Roboto, sans-serif;
+    color: #5C469C;
+    letter-spacing: 0.2px;
+}
+
+h1{
+    margin: 0em;
+    padding: 0.70rem 0em;
+    padding-bottom: 0.1em;
+    font-weight: 600;
+    text-align: center;
+    color: #5C469C;
+    font-size: 1.9em;
+
+}
+
+h2{
+    margin: 0em;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1,75em;
+    color: #333132;
+}
+
+#ultimasHabitaciones{
+    margin: 0.5em 11.8em;
+    margin-bottom: 2em;
+    padding: 0.2em 0.5em;
+    font-weight: 300;
+    font-size:  1.1em;
+    color: red;
+    border: 2px solid red;
+    border-radius: 0.625em;
+    background-color: white;
+    width: 11em;
+}
+
+#foto{
+    max-width: 34.375em;
+    margin: 0em 1.3em;
+}
+
+.promo{
+    margin: 0.8em 4.5em;
+    text-align: center;
+    letter-spacing: 0.07em;
+    line-height: 1.3em;
+    font-weight: 200;
+    font-size: 1em;
+}
+
+#recordatorio{
+    margin: 2em 4em;
+    font-weight: 700;
+    color: #EA0074;
+    text-align: center;
+    letter-spacing: 0.01em;
+}
+
+#TuViaje{
+    margin: 0.5em 15.8em;
+    padding: 1em;
+    font-size: 0.9em;
+    border: none;
+    border-radius: 0.3em;
+    color: white;
+    background-color:#5C469C;
+}
+
+#TuViajeButton{
+    text-decoration: none;
+    color: white;
+}
+
+.pieDePagina{
+    margin: 0em;
+    padding: 0em;
+}
+
+#PricetravelTeam{
+    margin: 2em 0em;
+    margin-bottom: 0.8em;
+    color: #333132;
+    text-align: center;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+#TeamText{
+    margin: 0em 4em;
+    margin-bottom: 1.8em;
+    text-align: center;
+    font-weight: 200;
+    font-size: 0.8em;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 3em;
+}
+
+#whatsapp{
+    margin: 0em 1em;
+    padding: 1em;
+    border-radius: 0.4em;
+    border: none;
+    background-color: #25d366;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#whatsappIcon{
+    height: 1.45em;
+    top: 5em;
+    padding: 0em 0.3em;
+}
+
+#whatsappText{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+#Telefono{
+    margin: 0em 1em;
+    padding: 1em;
+    border-radius: 0.4em;
+    border: none;
+    background-color: #479EDE;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#TelefonoText{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    display: flex;
+    flex-direction: row;
+    padding-right: 0.2em;
+}
+
+#phone{
+    height: 1.3em;
+    top: 5em;
+    padding: 0em 0.5em;
+}
+
+#Numero{
+    margin: 0em;
+    font-weight: 800;
+    padding-left: 0.2rem;
+    color: #173F8E;
+}
+
+#brandingBar{
+    margin: 0em 0em;
+    padding: 0em;
+    width: 600px;
+    height: 0.4em;
+}
+
+#avisoPrivacidad{
+    text-decoration: none;
+}
+
+#Privacidad{
+    color: #5C469C;
+    font-size: 0.7em;
+    text-align: center;
+}
+
+#adress{
+    text-align: center;
+    font-size: 0.75em;
+    margin: 0em;
+    color: gray;
+    letter-spacing: 0.4px;
+}
+
+/* FOR MOBILE PHONE */ 
+@media only screen and (max-width: 428px) {
+
+
+}
